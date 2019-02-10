@@ -5,11 +5,11 @@ Game available to download on the Google Play Store here: https://play.google.co
 
 This repository contains the following eight files:
 
-Player.cs - A CS file containing the C# for the player objects
-Item.cs - A CS file containing the C# for the item objects
-GameControl.cs - A CS file containing the C# to create the functionality of the core game
-EffectsControl.cs - A CS file containing the C# to manage visual effects
-MusicControl.cs - A CS file containing the C# to manage music
-SoundControl.cs - A CS file containing the C# to manage sound effects
-SettingsControl.cs - A CS file containing the C# to user settings
-UIControl.cs - A CS file containing the C# to user interface elements
+ 1. Player.cs - A CS file containing the C# for the player objects
+ 2. Item.cs - A CS file containing the C# for the item objects
+ 3. GameControl.cs - A CS file containing the C# to create the functionality of the core game
+ 4. EffectsControl.cs - A CS file containing the C# to manage visual effects
+ 5. MusicControl.cs - A CS file containing the C# to manage music
+ 6. SoundControl.cs - A CS file containing the C# to manage sound effects
+ 7. SettingsControl.cs - A CS file containing the C# to user settings
+ 8. UIControl.cs - A CS file containing the C# to user interface elements
